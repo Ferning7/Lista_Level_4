@@ -1,0 +1,6 @@
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_Level_4\Lista_Level_4\obj\Debug\Lista_Level_4.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_Level_4\Lista_Level_4\bin\Debug\Lista_Level_4.exe.config
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_Level_4\Lista_Level_4\bin\Debug\Lista_Level_4.exe
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_Level_4\Lista_Level_4\bin\Debug\Lista_Level_4.pdb
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_Level_4\Lista_Level_4\obj\Debug\Lista_Level_4.exe
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\Lista_Level_4\Lista_Level_4\obj\Debug\Lista_Level_4.pdb
